@@ -1,0 +1,3 @@
+실제 컴포넌트는 부품으로서의 역할을 유지한다(화면에 보이는것에 집중한다)
+redux랑 1도 관련없음(누군지 모름)
+=presentational component
